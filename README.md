@@ -33,7 +33,7 @@ We don't need you to be an expert in these technologies, but we would like to se
 
 + React.js
 + RESTful APIs
-+ Python
++ Python 3
 + SQLlite
 
 You are free to use any node modules or python packages you choose. Make sure they are tracked so that they will be installed with the steps below.
