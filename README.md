@@ -19,7 +19,7 @@ The spec of the task is deliberately vague to see where you take it so be creati
 ## The Rules
 
 1. Before you begin, fill out the [application form](https://goo.gl/forms/xvMqt1Zq55obCmK52).
-1. Use this repo as a starting point.
+1. Fork this repo and use it repo as a starting point.
 1. Finish before the deadline you gave yourself on the form.
 1. Use the technology stack set out below.
 1. You can contact us if you need clarifications.
