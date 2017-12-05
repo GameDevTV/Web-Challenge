@@ -42,8 +42,9 @@ You are free to use any node modules or python packages you choose. Make sure th
 
 Install the front-end dependencies.
 ```
-npm install
+yarn install
 ```
+(You can use npm if you prefer)
 
 Create a venv and install the python dependencies.
 ```
@@ -52,8 +53,14 @@ pip install -r requirements.txt
 
 ## Running
 
-Run the client and the API server.
+Run the client:
 ```
-npm start
+cd frontend
+yarn start
+```
+
+And elsewhere run the API server:
+```
+cd backend
 python ./server.py
 ```
