@@ -5,7 +5,10 @@
   "devDependencies": {
     "react-scripts": "1.0.17"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
