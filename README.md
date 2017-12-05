@@ -1,4 +1,4 @@
-# GameDev.tv Web Development Challenge
+# GameDev.tv Web Developer Challenge
 
 At GameDev.tv we build lots of automation to ensure we can build courses quickly with a high quality bar. We are looking to hire a new contractor to help us grow this platform of tools.
 
@@ -18,11 +18,12 @@ The spec of the task is deliberately vague to see where you take it so be creati
 
 ## The Rules
 
-1. Before you begin, fill out the [application form](about:blank).
+1. Before you begin, fill out the [application form](https://goo.gl/forms/xvMqt1Zq55obCmK52).
 1. Use this repo as a starting point.
 1. Finish before the deadline you gave yourself on the form.
 1. Use the technology stack set out below.
 1. You can contact us if you need clarifications.
+1. When you finish, send me a message and stop committing.
 1. Have fun with it!
 
 We look forward to seeing what you create.
