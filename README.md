@@ -2,7 +2,11 @@
 
 At GameDev.tv we build lots of automation to ensure we can build courses quickly with a high quality bar. We are looking to hire a new contractor to help us grow this platform of tools.
 
-Are you a web developer with the skills we need? Have a go at our challenge to see.
+There is lots of work to do and we are looking for a creative person who can be independent. If we decide to work together, we would start out with a part-time contract in the order of 8 hours a week for a couple of months. If things are going well, we want to extend the contract indefinitely with a more hours per week.
+
+We are looking for a very general skill set around web developement. We don't mind which tools you have used in the past as long as you are comfortable picking up and using tools like React, Python and Redis. We want someone who focuses on communicating well through there code and is a strong problem solver.
+
+Are you a web developer with the skills we need? We have created a challenge for you to show off what you can do. It should take no more than a couple of hours to complete if you already have familiarity with React and Python.
 
 ## The Challenge
 
@@ -19,11 +23,13 @@ The spec of the task is deliberately vague to see where you take it so be creati
 ## The Rules
 
 1. Before you begin, fill out the [application form](https://goo.gl/forms/xvMqt1Zq55obCmK52).
-1. Fork this repo and use it repo as a starting point.
+1. Fork this repo and use it as a starting point.
 1. Finish before the deadline you gave yourself on the form.
 1. Use the technology stack set out below.
 1. You can contact us if you need clarifications.
 1. When you finish, send me a message and stop committing.
+1. Use online resources, this is not a closed book challenge.
+1. Don't subcontract or have anybody else help you, this must be your work.
 1. Have fun with it!
 
 We look forward to seeing what you create.
