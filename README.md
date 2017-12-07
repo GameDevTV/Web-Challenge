@@ -18,7 +18,7 @@ If you visit a course landing page such as the [our new Unity course](https://ww
 
 Every hour, your solution should snapshot this value to at least 2 decimal places (that’s right, it can’t be done simply by screen-scraping the page).
 
-The UI for your solution need not be any more complicated than a table displaying the values with the dates of the snapshot. It should automatically refresh when new values come in (a delay is acceptible).
+The UI for your solution need not be complicated. It should automatically refresh when new values come in (a delay is acceptible). Focus on getting something rough and ready, we can discuss extensions you would plan afterward.
 
 The spec of the task is deliberately vague to see where you take it so be creative. However, don’t over engineer your solution either. We want to see what it you be like to iterate ideas with you.
 
