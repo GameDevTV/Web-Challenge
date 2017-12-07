@@ -7,4 +7,4 @@ def hello():
     return jsonify({"hello": "world"})
 
 if __name__ == "__main__":
-    server.run(host='0.0.0.0', port=8000, debug=True)
+    server.run(host='0.0.0.0', port=9000, debug=True)
