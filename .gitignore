@@ -163,3 +163,6 @@ venv.bak/
 .mypy_cache/
 
 .vscode
+
+# Git bundle of submission entry
+submission.bundle
