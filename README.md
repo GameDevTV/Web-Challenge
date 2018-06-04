@@ -14,7 +14,7 @@ Are you a web developer with the skills we need? We have created a challenge for
 
 We want to track the performance of our review scores over time. Your task is to create a backend to do this and a front end to display it.
 
-If you visit a course landing page such as the [our new Unity course](https://www.udemy.com/unitycourse2/). You will notice that it shows an average rating. Over time this changes as new reviews come in.
+If you visit a course landing page such as the [our new Unity course](https://www.udemy.com/unitycourse2/). You will notice that it shows an average rating. Over time this changes as new reviews come in. Furthermore, this average is based on a proprietary algorithm by Udemy that we don't have access to.
 
 Every hour, your solution should snapshot this value to at least 2 decimal places (that’s right, it can’t be done simply by screen-scraping the page).
 
